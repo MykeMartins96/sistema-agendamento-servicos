@@ -50,16 +50,10 @@ O sistema permite que clientes realizem agendamentos de serviços e que administ
 
 ## 🌐 Aplicação Publicada
 
-Cole aqui o link da aplicação.
-
----
-
-## 💻 Repositório GitHub
-
-Cole aqui o link do GitHub.
+[] https://blueviolet-fish-831800.hostingersite.com/
 
 ---
 
 ## 👤 LinkedIn
 
-Cole aqui o link do seu LinkedIn.
+[] https://www.linkedin.com/in/myke-santana-martins/
