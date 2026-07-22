@@ -2,8 +2,6 @@
 
 ## 📖 Sobre o Projeto
 
-Aplicação desenvolvida como teste técnico para uma vaga de Desenvolvedor Front-End Júnior.
-
 O sistema permite que clientes realizem agendamentos de serviços e que administradores visualizem e gerenciem os atendimentos por meio de um painel administrativo.
 
 ---
