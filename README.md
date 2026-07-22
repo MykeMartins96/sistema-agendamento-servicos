@@ -4,6 +4,12 @@
 
 O sistema permite que clientes realizem agendamentos de serviços e que administradores visualizem e gerenciem os atendimentos por meio de um painel administrativo.
 
+## 🤖 Desenvolvimento
+
+Este projeto foi desenvolvido com o auxílio da **Hostinger Horizons**, utilizando engenharia de prompts para acelerar a criação da estrutura inicial da aplicação.
+
+Após a geração inicial, foram realizadas revisões, personalizações, testes e validações para garantir que todas as funcionalidades solicitadas no desafio estivessem funcionando corretamente.
+
 ---
 
 ## 🚀 Funcionalidades
